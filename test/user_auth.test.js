@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 const axios = require('axios');
-headers = { Authorization: process.env.AUTH }
+headers = { Authorization: 'Bearer 32c1583f7a2c3d03bc54ebe1ddcffe94e7c8b6d0'};
 
 const queryListRepos =
 `query {

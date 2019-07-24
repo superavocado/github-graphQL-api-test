@@ -4,7 +4,7 @@
   "description": "github graphql api test",
   "main": "index.js",
   "scripts": {
-    "test": "AUTH=\"Bearer 27247dc2bff1dd47526d4c79c5ec8c0f4b123bcf\" mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
