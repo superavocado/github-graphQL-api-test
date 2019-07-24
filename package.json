@@ -1,0 +1,32 @@
+{
+  "name": "github-graphql-api-test",
+  "version": "1.0.0",
+  "description": "github graphql api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "AUTH=\"Bearer 27247dc2bff1dd47526d4c79c5ec8c0f4b123bcf\" mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superavocado/github-graphQL-api-test.git"
+  },
+  "keywords": [
+    "github",
+    "graphql",
+    "api",
+    "test"
+  ],
+  "author": "Tina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superavocado/github-graphQL-api-test/issues"
+  },
+  "homepage": "https://github.com/superavocado/github-graphQL-api-test#readme",
+  "dependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.7",
+    "axios": "^0.19.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
