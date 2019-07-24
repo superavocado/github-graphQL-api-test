@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 const axios = require('axios');
-headers = { Authorization: "Bearer 8079455f9418de4bf316098fab6a9327cbe27a6c"};
+headers = { Authorization: "Bearer 75c51caff4c2d54f1f157c497a5ab38ff24a3397"};
 
 const queryListRepos =
 `query {
